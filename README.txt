@@ -13,3 +13,4 @@ Branch (ramas)
 feture/AddIndex
 fix/hotfixIndex
 fix/hotfixIndex2
+feature/v1.0.5

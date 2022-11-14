@@ -1,1 +1,1 @@
-hola soy un index
+hola soy un caso especial
